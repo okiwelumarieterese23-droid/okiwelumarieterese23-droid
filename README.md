@@ -1,4 +1,4 @@
-# Hi there, I'm [Okiwelu Marie-Terese Chinwe] 
+# Hi there, I'm Okiwelu Marie-Terese Chinwe.
 
 ### Aspiring Cloud Engineer | AWS & GCP Learner | Building the Future
 
