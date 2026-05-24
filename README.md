@@ -46,17 +46,11 @@ GCP Fundamentals       🔜 Coming Soon
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-terese-okiwelu-90570b387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-> *"The cloud is not a destination, it's a journey — and I'm just getting started."* ☁️
+> *"The cloud is not a destination, it's a journey — and I'm just getting started."* 
 > 
