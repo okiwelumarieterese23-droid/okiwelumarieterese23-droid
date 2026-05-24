@@ -9,7 +9,7 @@
 I am a passionate and driven individual on a mission to build a career in **Cloud Computing**. Currently learning **Amazon Web Services (AWS)** and **Google Cloud Platform (GCP)**, I am committed to gaining the skills needed to design, deploy, and manage cloud infrastructure.
 
 -  Based in **Nigeria**
--  Working learning **AWS & GCP**
+-  Currently learning **AWS & GCP**
 -  Working towards **AWS Cloud Practitioner Certification**
 -  Passionate about **Cloud Infrastructure, Security & Networking**
 -  Open to **collaborations, mentorship and opportunities**
@@ -54,9 +54,9 @@ GCP Fundamentals       🔜 Coming Soon
 
 ##  Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/marie-terese-okiwelu-90570b387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marie-terese-okiwelu-90570b387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-> *"The cloud is not a destination, it's a journey — and I'm just getting started."* 
+> *"The cloud is not a destination, it's a journey — and I'm just getting started."* ☁️
 > 
