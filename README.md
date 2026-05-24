@@ -45,11 +45,6 @@ GCP Fundamentals       🔜 Coming Soon
 -  Cloud Security Best Practices
 
 ---
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okiwelumariterese23-droid&show_icons=true&theme=tokyonight)
-
 ---
 
 ##  Connect With Me
